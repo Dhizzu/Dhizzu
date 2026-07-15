@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,php" />
-<<<<<<< HEAD
 </p>
 
 <h3 align="center">Framework & Libraries</h3>
