@@ -24,11 +24,12 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman'
 
-
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
           build_dir: dist
+          committer: Dhizzu <180661181+Dhizzu@users.noreply.github.com>
+          author: Dhizzu <180661181+Dhizzu@users.noreply.github.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
