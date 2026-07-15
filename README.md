@@ -29,8 +29,6 @@
     <img src="https://i.pinimg.com/736x/1f/84/41/1f8441350c797bfc866eca35291337d7.jpg" width="102">
 </p>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhizzu/dhizzu/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhizzu/dhizzu/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhizzu/dhizzu/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/dhizzu/dhizzu/snake-output/snake.svg" alt="Snake animation" />
+
+###
