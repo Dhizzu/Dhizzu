@@ -17,6 +17,12 @@
   <img src="https://skillicons.dev/icons?i=laravel,react,next,tailwind" />
 </p>
 
+<h3 align="left">Other</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker" />
+</p>
+
 ---
 
 <h3 align="left">My Wife</h3>
