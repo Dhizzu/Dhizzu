@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhizz</h1>
-<h3 align="center">A beginner Developer and A student</h3>
+<h3 align="center">Currently, I'm A beginner develop and A student in one of the Vocational High School in Jakarta. I've started my programming skill when I in Junior High School. I always improve my programming skills for my future career. Now, I decided to go to College and get my badge in Computer Science. Now I learn in Oracle Academy</h3>
 
 ---
 
