@@ -34,6 +34,6 @@
     <img src="https://i.pinimg.com/736x/23/81/cf/2381cf20cae9b3687e2eef01ed637d5f.jpg" width="102">
 </p>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/dhizzu/dhizzu/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Dhizzu/Dhizzu/snake-output/snake.svg" alt="Snake animation" />
 
 ###
