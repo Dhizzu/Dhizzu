@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhizz</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F707E0&center=true&random=true&width=435&lines=Software+Engineer;Laravel;React" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=F707E0&center=true&random=true&width=435&lines=Software+Engineer;Laravel;React" alt="Typing SVG" /></a>
 
 ---
 
