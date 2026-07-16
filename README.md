@@ -8,7 +8,7 @@
 <h3 align="left">Programming Language</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,go" />
 </p>
 
 <h3 align="left">Framework & Libraries</h3>
