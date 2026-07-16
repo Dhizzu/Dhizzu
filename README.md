@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhizz</h1>
-<h3 align="center">Currently, I'm A beginner develop and A student in one of the Vocational High School in Jakarta. I've started my programming skill when I in Junior High School. I always improve my programming skills for my future career. Now, I decided to go to College and get my badge in Computer Science. Now I learn in Oracle Academy</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F707E0&center=true&random=true&width=435&lines=Software+Engineer;Laravel;React)](https://git.io/typing-svg)
 
 ---
 
