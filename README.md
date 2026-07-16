@@ -31,6 +31,7 @@
     <img src="https://i.pinimg.com/736x/66/8f/9e/668f9e7636be59e48911e4f5189acba5.jpg" width="100">
     <img src="https://i.pinimg.com/736x/79/13/f1/7913f1953a1d437492dd93836f7e86dd.jpg" width="102">
     <img src="https://i.pinimg.com/736x/1f/84/41/1f8441350c797bfc866eca35291337d7.jpg" width="102">
+    <img src="https://i.pinimg.com/736x/23/81/cf/2381cf20cae9b3687e2eef01ed637d5f.jpg" width="102">
 </p>
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/dhizzu/dhizzu/snake-output/snake.svg" alt="Snake animation" />
