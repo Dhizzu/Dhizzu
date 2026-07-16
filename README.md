@@ -15,10 +15,6 @@
   <img src="https://skillicons.dev/icons?i=laravel,react,next,tailwind" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
-</p>
-
 ---
 
 <h3 align="center">My Wife</h3>
