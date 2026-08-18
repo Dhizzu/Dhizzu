@@ -16,13 +16,20 @@
 
 ## 🧑‍💻 About Me
 
-Currently a beginner developer and software engineer, studying at a Vocational High School (VHS) in Jakarta, Indonesia. I started learning programming back in 8th grade (JHS), beginning with the basics — HTML and CSS.
+Student of SMKN 43 Jakarta —— Jakarta, Indonesia.
+Beginner developer & Software Engineer, almost mini project use Laravel and React.
+Still improving & upgrading skills for the future.
+Want to learn some programming languages and do competitive programming.
 
-At VHS, I regularly build mini projects — most of them with **Laravel**, and some with **React** for API integration. Several of these will be added to my repositories soon.
+Next Lesson:
+- Learn C++
+- Learn Java
+- Learn Python
+- Learn Godot
 
-After graduating from VHS, I plan to continue on to college to further sharpen my programming and development skills. Next up on my learning list: **Java** and **Python**.
+Have dream of making my game and publish to Steam or Epic Games. Have a great imagination of fantasy, so that I'll realized my imagination to game and make my own games.
 
-Long-term, I'd love to become a **Game Developer**. Since I watch a lot of anime and movies, I'm hoping that translates into building games with genuinely great stories. 🎮
+Preparing to come to College.
 
 <br>
 
