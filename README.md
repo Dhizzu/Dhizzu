@@ -1,28 +1,70 @@
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-</div>
+<h1 align="center">Hi there, I'm Dhizz 👋</h1>
 
-###
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F707E0&center=true&vCenter=true&width=435&lines=Software+Engineer;Laravel+Developer;React+Developer;Aspiring+Game+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/dhizzu/dhizzu/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/dhizzu/dhizzu/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Student-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Jakarta%2C%20Indonesia-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Laravel%20%26%20React-orange?style=flat-square" />
+</p>
 
-###
+<br>
+
+## 🧑‍💻 About Me
+
+Student of SMKN 43 Jakarta —— Jakarta, Indonesia.
+Beginner developer & Software Engineer, almost mini project use Laravel and React.
+Still improving & upgrading skills for the future.
+Want to learn some programming languages and do competitive programming.
+
+Achievement at School:
+- 🏆 | 1st winner in LKS Kabupaten/Kota Wilayah Jakarta Selatan 2025 & 2026
+- 🏅 | 10th rank in LKS Provinsi DKI Jakarta 2026
+
+Next Lesson:
+- Learn C++
+- Learn Java
+- Learn Python
+- Learn Godot
+
+Have dream of making my game and publish to Steam or Epic Games. Have a great imagination of fantasy, so that I'll realized my imagination to game and make my own games.
+
+Preparing to come to College.
+
+<br>
+
+## 🛠️ Tech Stack
+
+<table align="center" style="display: flex; justify-content: center">
+  <tr>
+    <td align="center"><b>Programming Languages</b></td>
+    <td align="center"><b>Frameworks & Libraries</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,html,css,php,go" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel,react,next,tailwind" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 💖 My Wife
+
+<p align="center">
+    <img src="https://i.pinimg.com/736x/66/8f/9e/668f9e7636be59e48911e4f5189acba5.jpg" width="110" style="border-radius:8px; margin:4px">
+    <img src="https://i.pinimg.com/736x/79/13/f1/7913f1953a1d437492dd93836f7e86dd.jpg" width="110" style="border-radius:8px; margin:4px">
+    <img src="https://i.pinimg.com/736x/1f/84/41/1f8441350c797bfc866eca35291337d7.jpg" width="110" style="border-radius:8px; margin:4px">
+    <img src="https://i.pinimg.com/736x/23/81/cf/2381cf20cae9b3687e2eef01ed637d5f.jpg" width="110" style="border-radius:8px; margin:4px">
+</p>
+
+<br>
+
+<p align="center"><i>Thanks for visiting my profile! ⭐</i></p>
