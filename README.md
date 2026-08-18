@@ -21,6 +21,10 @@ Beginner developer & Software Engineer, almost mini project use Laravel and Reac
 Still improving & upgrading skills for the future.
 Want to learn some programming languages and do competitive programming.
 
+Achievement at School:
+- 🏆 | 1st winner in LKS Kabupaten/Kota Wilayah Jakarta Selatan 2025 & 2026
+- 🏅 | 10th rank in LKS Provinsi DKI Jakarta 2026
+
 Next Lesson:
 - Learn C++
 - Learn Java
