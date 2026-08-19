@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Next Lesson:<br><br>- Advanced Golang<br>- Learn C++<br>- Learn Python<br>- Learn Godot Engine</p>
+<p data-importer="text" align="left">Next Lesson:<br><br>- Advanced Golang<br>- Learn C++<br>- Learn Python<br>- Learn Godot Engine<br>- Learn Competitive Programming</p>
 
 ###
 
