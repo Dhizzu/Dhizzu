@@ -54,6 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/1510539c-1a66-4fdd-9635-99fa7bc5b002" />
+
 </div>
 
 ###
