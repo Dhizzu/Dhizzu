@@ -57,9 +57,7 @@
   <img width="12" />
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1510539c-1a66-4fdd-9635-99fa7bc5b002" alt="claude logo" />
   <img width="12" />
-  <img width="2854" height="40" alt="image" src="https://github.com/user-attachments/assets/880977a3-0d47-4570-9de5-52b2e347ab81" />
-
-
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/602f3153-3cea-4fcd-9e11-0027502cd527" alt="opencode logo" />
 </div>
 
 ###
