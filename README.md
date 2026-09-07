@@ -76,10 +76,21 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhizzu/dhizzu/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhizzu/dhizzu/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhizzu/dhizzu/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<h3>Waifu?? :v</h3>
+<p>Ignore it please</p>
+
+###
+
+<div align="left">
+  <img src="https://i.pinimg.com/736x/71/97/6c/71976cc4e0eb15eeb9edfcdfd995d1d7.jpg" width="115px">
+  <img width="10">
+  <img src="https://i.pinimg.com/736x/e9/71/40/e9714047b281cc60ce5641448c2c030f.jpg" width="105px">
+  <img width="10">
+  <img src="https://i.pinimg.com/1200x/21/74/3b/21743be0ac2a76f3f3558a97a83634ae.jpg" width="105px">
+  <img width="10">
+  <img src="https://i.pinimg.com/736x/66/8f/9e/668f9e7636be59e48911e4f5189acba5.jpg" width="105px">
+  <img width="10">
+  <img src="https://i.pinimg.com/736x/97/88/ce/9788ce6268ae081e3465a9fbad791e19.jpg" width="105px">
+</div>
 
 ###
